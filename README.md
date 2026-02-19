@@ -9,6 +9,8 @@ This project analyzes telecom customer data to identify the major factors respon
 - Total Customers: 7,048  
 - Total Features: 21  
 - Target Variable: Churn (Yes/No)
+-  *Dataset Source: Kaggle – Telco Customer Churn Dataset
+
 
 
 
@@ -36,3 +38,6 @@ This project analyzes telecom customer data to identify the major factors respon
 
 ##  Note  
 This project was developed as part of my self-learning journey in Data Analytics by referring to online resources and independently creating the dashboard.
+
+Role: Data Cleaning, Analysis, and Dashboard Development
+
