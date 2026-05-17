@@ -39,7 +39,7 @@ A telecom company was facing high customer churn. The goal was to analyze 7,000+
 - Identify high-risk customers early and apply retention strategies.
 
 Dashboard Screenshot
-churn dashboard.png
+![Dashboard](churn%20dashboard.png)
 
 
 ##  Note  
