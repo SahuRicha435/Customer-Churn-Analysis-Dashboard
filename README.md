@@ -3,6 +3,10 @@
 # Project Overview  
 This project analyzes telecom customer data to identify the major factors responsible for customer churn. The goal is to understand customer behavior and provide insights that can help reduce churn and improve retention.
 
+# Problem Statement
+A telecom company was facing high customer churn. The goal was to analyze 7,000+ customer records to identify key churn drivers and help the business improve retention strategies.
+
+
 
 
 # Dataset Information  
