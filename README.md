@@ -38,6 +38,8 @@ A telecom company was facing high customer churn. The goal was to analyze 7,000+
 - Provide bundled service packages including Tech Support.  
 - Identify high-risk customers early and apply retention strategies.
 
+Dashboard Screenshot
+![Dashboard](churn-dashboard.png)
 
 
 ##  Note  
